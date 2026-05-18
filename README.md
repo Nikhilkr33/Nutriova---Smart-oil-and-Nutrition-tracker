@@ -4,7 +4,8 @@ Nutriova is an Android-based health tracking application developed using Kotlin 
 
 The main objective of Nutriova is to spread awareness regarding unhealthy oil intake and encourage users to adopt a balanced and healthy lifestyle through smart meal tracking and personalized recommendations.
 
-Features
+Features:
+
 User Authentication
 Login / Sign Up interface
 Google & Apple login UI
@@ -54,7 +55,10 @@ User information management
 Notification settings
 Privacy & security settings
 Dietary preference customization
-Application Flow
+
+
+Application Flow:
+
 Splash Screen
       ↓
 Login / Sign Up
@@ -74,10 +78,12 @@ AI Chef Suggestions
 Rewards & Achievements
       ↓
 Profile & Settings
-Tech Stack
+
+Tech Stack:
 Frontend
 Kotlin
-Jetpack Compose
+
+Jetpack Compose:
 Material 3
 Development Tools
 Android Studio
@@ -133,7 +139,8 @@ Click Open Project
 Select the Nutriova folder
 Sync Gradle
 Run the project on Emulator or Device
-Folder Structure
+
+Folder Structure:
 Nutriova/
 │
 ├── app/
@@ -156,6 +163,8 @@ Navigation Systems
 Responsive UI Design
 AI Integration Concepts
 Health Tracking Application Architecture
+
+
 Author
 Deepak
 

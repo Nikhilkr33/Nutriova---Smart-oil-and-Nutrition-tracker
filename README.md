@@ -85,36 +85,44 @@ Kotlin
 
 Jetpack Compose:
 Material 3
-Development Tools
+
+Development Tools:
 Android Studio
-Gradle
+
+Gradle:
 State Management
 Mutable State
 State Hoisting
 Navigation
 Navigation Compose
-UI Components
+
+UI Components:
 LazyColumn
 LazyRow
 Cards
 Bottom Navigation
 Custom Components
-AI Integration
+
+AI Integration:
 AI-based recipe recommendation logic
 Future Gemini/OpenAI API integration support
-Screenshots
+
+Screenshots:
 Authentication & Profile
 Login Screen
 Create Profile Screen
 Main Features
 Dashboard Screen
 Add Consumption Screen
-Recipe Recommendation Screen
+
+Recipe Recommendation Screen:
 AI Chef Screen
-Additional Screens
+
+Additional Screens:
 Rewards Screen
 Recipe Detail Screen
-Profile Screen
+
+Profile Screen:
 Project Objectives
 Promote healthy eating habits
 Monitor daily oil consumption
